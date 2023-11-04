@@ -62,16 +62,16 @@ const c3 = new Programmer("Manny", "SysOps", 31,["HTML", "CSS", "JS", "R"]);
 // person1.exercise();
 // person1.fetchJob();
 
-// c1.exercise();
-// c1.fetchJob();
-// c1.offerNewTask();
-// c1.completeTask();
-// c1.offerNewTask();
-// c1.acceptNewTask();
-// c1.offerNewTask();
-// console.log(c1.listLanguage());
-// c1.learnLanguage("JavaScript"); 
-// console.log(c1.listLanguage());
+c1.exercise();
+c1.fetchJob();
+c1.offerNewTask();
+c1.completeTask();
+c1.offerNewTask();
+c1.acceptNewTask();
+c1.offerNewTask();
+console.log(c1.listLanguage());
+c1.learnLanguage("JavaScript"); 
+console.log(c1.listLanguage());
 
 // c2.exercise();
 // c2.fetchJob();
